@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lio-king
+- 👋 Hi, I’m @Faizal_Azad
 - 👀 I’m interested in cybersecurity and automaton
 - 🌱 I always try to learn from everything
 - � I’m looking to collaborate 
